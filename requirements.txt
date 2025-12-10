@@ -1,0 +1,24 @@
+System Requirements:
+- Node.js (Version 18 or higher)
+- NPM (Node Package Manager)
+- Modern Web Browser (Chrome/Edge/Firefox) with WebGL support
+
+Required NPM Packages (Production):
+- react (^18.2.0)
+- react-dom (^18.2.0)
+- @google/genai (^0.1.1) - For Gemini AI integration
+- @mediapipe/tasks-vision (^0.10.3) - For local gesture recognition
+- three (^0.158.0) - For 3D rendering
+- @react-three/fiber (^8.15.0) - React renderer for Three.js
+- @react-three/drei (^9.88.0) - Helpers for Three.js
+- lucide-react (^0.292.0) - Icon library
+- recharts (^2.10.0) - For dashboard charts
+
+Dev Dependencies:
+- vite - Build tool
+- typescript - Language support
+- tailwindcss - Styling
+- @vitejs/plugin-react
+
+Assets:
+- model.glb (Must be placed in /public directory)

@@ -1,0 +1,15 @@
+{
+  "imports": {
+    "react": "https://esm.sh/react@18.3.1",
+    "react-dom/client": "https://esm.sh/react-dom@18.3.1/client",
+    "react/jsx-runtime": "https://esm.sh/react@18.3.1/jsx-runtime",
+    "@google/genai": "https://esm.sh/@google/genai@0.1.1",
+    "@react-three/fiber": "https://esm.sh/@react-three/fiber@8.16.8?external=react,react-dom,three",
+    "@react-three/drei": "https://esm.sh/@react-three/drei@9.108.3?external=react,react-dom,three,@react-three/fiber",
+    "three": "https://esm.sh/three@0.165.0",
+    "lucide-react": "https://esm.sh/lucide-react@0.395.0?external=react",
+    "recharts": "https://esm.sh/recharts@2.12.7?external=react,react-dom",
+    "@mediapipe/tasks-vision": "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.18",
+    "uuid": "https://esm.sh/uuid@9.0.1"
+  }
+}

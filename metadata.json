@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI Omni Talk",
+  "description": "An accessible communication platform bridging gaps using Gesture, Text, and Speech recognition powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
